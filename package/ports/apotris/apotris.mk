@@ -4,8 +4,8 @@
 #
 ################################################################################
 
-APOTRIS_VERSION        = v4.1.0
-APOTRIS_SITE           = https://gitea.com/akouzoukos/apotris.git
+APOTRIS_VERSION        = knulli
+APOTRIS_SITE           = git@github.com:mkasick/apotris.git
 APOTRIS_SITE_METHOD    = git
 APOTRIS_GIT_SUBMODULES = YES
 APOTRIS_LICENSE        = AGPL-3.0
