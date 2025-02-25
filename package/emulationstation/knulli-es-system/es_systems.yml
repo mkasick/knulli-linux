@@ -6088,3 +6088,19 @@ vaixterm:
     Un terminal SDL2 robuste pour systèmes portables et embarqués.
   comment_br: |
     Um terminal SDL2 robusto para sistemas portáteis e embarcados.
+
+apotris:
+  name: Apotris
+  manufacturer: Ports
+  release: 2022
+  hardware: port
+  extensions: [game]
+  platform: pc
+  group: ports
+  emulators:
+    apotris:
+      apotris: { requireAnyOf: [BR2_PACKAGE_APOTRIS] }
+  comment_en: |
+    Apotris is a multiplatform open-source block stacking game!
+    https://apotris.com/
+    https://gitea.com/akouzoukos/apotris

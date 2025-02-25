@@ -22,6 +22,7 @@ $(BR2_EXTERNAL_KNULLI_PATH)/package/knulli-notice/*/*.mk \
 $(BR2_EXTERNAL_KNULLI_PATH)/package/libraries/*/*.mk \
 $(BR2_EXTERNAL_KNULLI_PATH)/package/modules/*/*.mk \
 $(BR2_EXTERNAL_KNULLI_PATH)/package/music/*/*.mk \
+$(BR2_EXTERNAL_KNULLI_PATH)/package/ports/*/*.mk \
 $(BR2_EXTERNAL_KNULLI_PATH)/package/retroarch/*/*.mk \
 $(BR2_EXTERNAL_KNULLI_PATH)/package/retroarch/*/*/*.mk \
 $(BR2_EXTERNAL_KNULLI_PATH)/package/system/*/*.mk \

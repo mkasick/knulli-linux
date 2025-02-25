@@ -203,6 +203,7 @@ PACKAGES_EMULATORS="amiberry
 
 PACKAGES_PORTS="abuse
                 abuse-data
+                apotris
                 cannonball
                 cdogs
                 cgenius

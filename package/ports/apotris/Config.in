@@ -1,0 +1,13 @@
+config BR2_PACKAGE_APOTRIS
+	bool "apotris"
+	select BR2_PACKAGE_HOST_PYTHON3
+	select BR2_PACKAGE_XXD
+	select BR2_PACKAGE_OPUS
+	select BR2_PACKAGE_LIBOGG
+	select BR2_PACKAGE_LIBZLIB
+	select BR2_PACKAGE_SDL2
+	select BR2_PACKAGE_SDL2_MIXER
+	help
+	  Apotris is a multiplatform open-source block stacking game!
+	  https://apotris.com/
+	  https://gitea.com/akouzoukos/apotris

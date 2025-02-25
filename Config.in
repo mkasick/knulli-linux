@@ -672,6 +672,10 @@ menu "Knulli Packages"
     source "$BR2_EXTERNAL_KNULLI_PATH/package/cores/libretro-parallel-n64/Config.in"
   endmenu
 
+  menu "Ports"
+    source "$BR2_EXTERNAL_KNULLI_PATH/package/ports/apotris/Config.in"
+  endmenu
+
   menu "Toolchains"
     source "$BR2_EXTERNAL_KNULLI_PATH/package/toolchain/toolchain-optional-linaro-arm/Config.in"
   endmenu

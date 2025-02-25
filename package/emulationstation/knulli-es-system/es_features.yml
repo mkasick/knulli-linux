@@ -13380,3 +13380,7 @@ azahar:
       choices:
         "Off": 0
         "On":  1
+
+apotris:
+  features: [padtokeyboard]
+  shared: [powermode, tdp, videomode, bezel, bezel_stretch, hud, hud_corner, bezel.tattoo, bezel.tattoo_corner, bezel.tattoo_file, bezel.resize_tattoo]

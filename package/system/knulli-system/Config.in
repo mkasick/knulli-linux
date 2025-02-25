@@ -1185,6 +1185,10 @@ config BR2_PACKAGE_BATOCERA_PORTS_SYSTEMS
 
 	# Medal of Honor: Allied Assault
 	select BR2_PACKAGE_OPENMOHAA    if BR2_x86_64
+
+	# Apotris
+	select BR2_PACKAGE_APOTRIS			# ALL
+
 	help
 	  Ports
 

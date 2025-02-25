@@ -48,6 +48,9 @@ amstradcpc:
 apfm1000:
   emulator: libretro
   core:     mame
+apotris:
+  emulator: apotris
+  core:     apotris
 apple2:
   emulator: gsplus
   core:     gsplus
